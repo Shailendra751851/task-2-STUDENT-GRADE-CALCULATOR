@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SGC{
+public class StudentGradeCalculator{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("*******************Student grade Calculator**************");
